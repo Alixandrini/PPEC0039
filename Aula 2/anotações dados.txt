@@ -1,0 +1,15 @@
+Dados da Web exemplos:
+
+
+Dados em PDF
+https://www.dot.ny.gov/main/bridgedata/repository/ErieBridgeData.pdf
+
+Dados em csv
+
+https://www.kaggle.com/datasets/niteshyadav3103/concrete-compressive-strength
+
+https://www.kaggle.com/datasets/anandaramg/apartment-cost-in-new-york-city
+
+Dados Publicados com Doi
+
+https://databank.illinois.edu/datasets/-3044828
